@@ -2,7 +2,7 @@
 
 meu nome é Rafael Ramos
 
-- Estou estudando
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 - CMSP
 - ALURA
 - KHAN ACADEMY
