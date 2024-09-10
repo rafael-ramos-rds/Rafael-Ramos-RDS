@@ -1,4 +1,4 @@
-## bem vindo oa meu perfil👋 😄
+### bem vindo oa meu perfil👋 😄
 
 meu nome é Rafael Ramos
 
@@ -6,3 +6,8 @@ meu nome é Rafael Ramos
 - CMSP
 - ALURA
 - KHAN ACADEMY
+- SPeak
+
+ ### você pode entrar em contato comigo 
+
+ rafaelramos757rds@gmail.com
